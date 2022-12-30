@@ -1,4 +1,4 @@
-# Medical-Insuracne-Cost-Regression
+# Medical-Insurance-Cost-Regression
 Linear Regression model created to predict medical insurance cost
 
 This project's intent is to create a multiple linear regression model using SKLearn. Given several features such as Age, BMI, Sex, and Smoker status, the model predicts the medical insurance cost of an individual with the input for them being values representing the respective features. 
